@@ -1,0 +1,25 @@
+.hero-title{
+font-size:48px;
+font-weight:bold;
+text-shadow:2px 2px 10px rgba(0,0,0,0.5);
+}
+
+.btn-cargo{
+background:#2563eb;
+color:white;
+padding:14px 30px;
+border-radius:8px;
+transition:0.3s;
+}
+
+.btn-cargo:hover{
+background:#1d4ed8;
+transform:scale(1.05);
+}
+
+.card{
+background:white;
+padding:30px;
+border-radius:10px;
+box-shadow:0 10px 25px rgba(0,0,0,0.1);
+}
